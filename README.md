@@ -2,7 +2,7 @@
 
 A premium admin dashboard built with React, TypeScript, and Tailwind CSS. Features glassmorphism UI, interactive charts, smooth animations, and a fully responsive design.
 
-![Dashboard Preview](https://raw.githubusercontent.com/radioheavy/starter-dashboard/main/preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/radioheavy/admin-dashboard/main/preview.png)
 
 ## Features
 
@@ -41,10 +41,10 @@ A premium admin dashboard built with React, TypeScript, and Tailwind CSS. Featur
 
 ```bash
 # Clone the repository
-git clone https://github.com/radioheavy/starter-dashboard.git
+git clone https://github.com/radioheavy/admin-dashboard.git
 
 # Navigate to the project
-cd starter-dashboard
+cd admin-dashboard
 
 # Install dependencies
 npm install
